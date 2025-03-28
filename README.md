@@ -153,11 +153,6 @@ export const personalData = {
   phone: "+91 9663461962",
   address: "Hubli Karnataka India",
   github: "https://github.com/EvelynJessica45",
-  // facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  // stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  // leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
   resume: "...",
 };
 ```
